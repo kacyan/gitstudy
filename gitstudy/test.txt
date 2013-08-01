@@ -19,3 +19,7 @@
 マージ用にブランチmerge-beforeを作る。
 merge-beforeにコミットする。
 merge-beforeとorigin/masterを手動でマージする。(マージ用編集画面で)
+
+2013/08/01 11:34 競合おさらい
+(1)portellenで変更、同期化、コミット、プッシュ
+(2)caoliraで変更、同期化、コミット
