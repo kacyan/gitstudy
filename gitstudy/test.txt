@@ -19,4 +19,3 @@
 マージ用にブランチmerge-beforeを作る。
 merge-beforeにコミットする。
 merge-beforeとorigin/masterを手動でマージする。(マージ用編集画面で)
-
