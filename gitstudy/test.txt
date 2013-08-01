@@ -11,5 +11,12 @@
 
 変更した。取り込んで。
 
+2013/08/01 09:57 portellen
+変更し、コミット、プッシュ。
+
 2013/08/01 caolira
 変更し、コミット、競合を起こす。
+マージ用にブランチmerge-beforeを作る。
+merge-beforeにコミットする。
+merge-beforeとorigin/masterを手動でマージする。(マージ用編集画面で)
+
