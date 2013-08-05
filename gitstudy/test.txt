@@ -32,4 +32,7 @@ merge-beforeとorigin/masterを手動でマージする。(マージ用編集画
 (7)プッシュ
 
 2013/08/05 間違ってコミットした場合
-リモートのorigin/masterをマージしてみる。
+リモートのorigin/masterをマージしてみる。-> Already-up-to-date となり出来ない。
+12:53 一旦コミットしてしまう。
+
+
